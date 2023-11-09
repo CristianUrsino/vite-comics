@@ -1,5 +1,5 @@
 <template>
-    <span>--BlackSection</span>
+    <section class="black-section h-100 py-2"></section>
 </template>
 
 <script>
