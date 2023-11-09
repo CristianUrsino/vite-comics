@@ -1,1 +1,21 @@
+@use './partials/variable' as *;
 @import 'bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    background-color: $white-color;
+}
+
+h1{
+   font-size: 1.5em;
+   font-family: 'Open Sans', sans-serif; //font corretto non trovato
+}
+
