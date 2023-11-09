@@ -1,7 +1,7 @@
 <template>
     <section class="links-section">
         <div class="container d-flex py-3 d-flex justify-content-between">
-            <div class="container d-flex d-flex">
+            <div class="container d-flex d-flex flex-wrap">
                 <div class="d-flex flex-column">
                     <ul>
                         <li>
