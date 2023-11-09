@@ -39,6 +39,10 @@ ul{
     color: $white-color;
 }
 // STRUCTURE
+.wrapper{
+    height: 100vh;
+    background-color: $black-color;
+}
 header{
     background-color: $white-color;
 }
@@ -73,9 +77,6 @@ main{
 }
 .icons-section{
     background-color: $gray-color;
-}
-.black-section{
-    background-color: black;
 }
 
 
