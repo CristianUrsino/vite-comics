@@ -1,5 +1,5 @@
 <template>
-    <span>content section--</span>
+    
 </template>
 
 <script>

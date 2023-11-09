@@ -1,5 +1,4 @@
 <template>
-    <span>FunctionSection</span>
 </template>
 
 <script>

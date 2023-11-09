@@ -1,8 +1,8 @@
 <template>
-    <main>MAIN</main>
-    <ContentSection/>
-    <FunctionsSection/>
-    <LinksSection/>
+    <main>
+        <ContentSection/>
+        <FunctionsSection/>
+    </main>
 </template>
 
 <script>

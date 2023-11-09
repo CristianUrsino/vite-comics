@@ -1,5 +1,16 @@
 <template>
-    <span>nav</span>
+    <ul class="d-flex ">
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+        <li class="mx-1 py-5 d-block border-bottom border-black">lorem</li>
+    </ul>
 </template>
 
 <script>

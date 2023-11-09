@@ -1,5 +1,5 @@
 <template>
-    <span>--LinksSection</span>
+    
 </template>
 
 <script>

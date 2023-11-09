@@ -1,7 +1,7 @@
 @use './partials/variable' as *;
 @import 'bootstrap/scss/bootstrap';
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
-
+// GENERAL
 *{
     margin: 0;
     padding: 0;
@@ -9,13 +9,40 @@
     list-style-type: none;
     font-family: 'Open Sans', sans-serif;
 }
-
+h1{
+    font-size: 1.5em;
+    font-family: 'Open Sans', sans-serif; //font corretto non trovato
+}
+figure{
+    margin: 0
+}
+img{
+    width: 100%;
+}
+ul{
+    margin: 0;
+}
+// STRUCTURE
 header{
     background-color: $white-color;
 }
-
-h1{
-   font-size: 1.5em;
-   font-family: 'Open Sans', sans-serif; //font corretto non trovato
+main{
+    color: $white-color;
 }
+.content-section{
+    background-color: $black-color;
+}
+.functions-section{
+    background-color: $blue-color;
+    color:white;
+    figure{
+        width: 35px;
+    }
+}
+.links-section{
+    background-image: url('../image/footer-bg.jpg');
+    color: white;
+}
+
+
 

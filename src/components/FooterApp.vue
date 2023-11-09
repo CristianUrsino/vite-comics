@@ -1,7 +1,10 @@
 <template>
-    <footer>FOOTER</footer>
-    <IconsSection/>
-    <BlackSection/>
+    <footer>
+        <LinksSection/>
+        <IconsSection/>
+        <BlackSection/>
+    </footer>
+    
 </template>
 
 <script>
