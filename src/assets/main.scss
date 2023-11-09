@@ -42,8 +42,21 @@ main{
 .links-section{
     background-image: url('../image/footer-bg.jpg');
     color: white;
-    
+    overflow:hidden;
+    figure{
+        border: 1px solid red;
+        overflow: visible;
+        width: 100px;
+        height: 100px;
+        object-position: center;
+    }
+    img{
+        width: 30vw;
+        transform: translate(-75%,-25%);
+    }
 }
-
+.icons-section{
+    background-color: $gray-color;
+}
 
 

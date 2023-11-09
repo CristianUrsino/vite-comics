@@ -1,5 +1,4 @@
 <template>
-    <span>iconsSection</span>
 </template>
 
 <script>

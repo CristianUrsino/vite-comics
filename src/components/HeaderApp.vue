@@ -1,7 +1,7 @@
 <template>
     <header> 
         <div class="container d-flex justify-content-between align-items-center">
-            <figure><img src="/public/image/dc-logo.png" alt=""></figure>
+            <figure><img src="/image/dc-logo.png" alt=""></figure>
             <NavBar/>
         </div>
     </header>

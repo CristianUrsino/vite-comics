@@ -44,17 +44,7 @@
                     <li>Text</li>
                 </ul>
             </div>
-            <figure><img src="/public/image/dc-logo-bg.png" alt=""></figure>
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
-            <!-- CORREGGERE IMMAGINE -->
+            <figure><img src="/image/dc-logo-bg.png" alt="logo"></figure>
         </div>
     </section>
 </template>
