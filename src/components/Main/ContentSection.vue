@@ -1,7 +1,6 @@
 <template>
     <section class="content-section">
-        <div class="container py-5">
-            <h1>--CONTENT GOES HERE--</h1>
+        <div class="container">
         </div>
     </section>
 </template>
