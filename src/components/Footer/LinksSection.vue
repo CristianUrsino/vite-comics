@@ -2,7 +2,7 @@
     <section class="links-section">
         <div class="container d-flex py-3 d-flex justify-content-between">
             <div class="container d-flex flex-wrap">
-                <ul v-for="(listLink,index) in listLinks" :key="id" >
+                <ul v-for="(listLink,index) in listLinks" :key="listLink.id" >
                     <div class="me-3">
                         <li >
                             <h1>{{listLink.title}}</h1>

@@ -63,9 +63,17 @@ main{
     .jumbotron-section{
         background-image: url('/image/jumbotron.jpg');
         height: calc(100vh - 120px);
+        width: 100%;
     }
     .content-section{
         background-color: $black-color;
+        h1{
+            color: $white-color;
+            background-color: $blue-color;
+            padding: 6px 12px;
+            display: inline-block;
+            transform: translate(0,-50%);
+        }
     }
     .functions-section{
         background-color: $blue-color;

@@ -1,7 +1,7 @@
 <template>
     <section class="functions-section">
         <ul class="container d-flex justify-content-around align-items-center py-2 flex-wrap">
-            <li class="d-flex mx-3 align-items-center py-2 clickable" v-for="(card,index) in cards" :key="id">
+            <li class="d-flex mx-3 align-items-center py-3 clickable" v-for="(card,index) in cards" :key="card.id">
                 <figure class="me-2 "><img :src="card.img" :alt="card.text + 'image'"></figure>
                 <div>{{card.text}}</div>
             </li>

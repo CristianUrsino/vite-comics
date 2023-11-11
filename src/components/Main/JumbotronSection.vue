@@ -1,5 +1,5 @@
 <template>
-    <div class="umbotron-section"></div>
+    <div class="jumbotron-section"></div>
 </template>
 
 <script>
