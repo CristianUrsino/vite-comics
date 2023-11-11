@@ -102,7 +102,21 @@ footer{
     .icons-section{
         background-color: $gray-color;
     }
-
 }
-
-
+//RESPONSIVE
+@media screen and (max-width: 992px) {
+    header{
+        li{
+            height: 52px;
+            line-height: 52px;
+        }
+    }
+}
+@media screen and (max-width: 495px) {
+    header{
+        li{
+            height: 30px;
+            line-height: 30px;
+        }
+    }
+}

@@ -1,7 +1,7 @@
 <template>
     <header> 
-        <div class="container d-flex justify-content-between align-items-center flex-wrap">
-            <figure class="py-2"><img src="/image/dc-logo.png" alt="logo"></figure>
+        <div class="container d-flex justify-content-between align-items-center gap-4">
+            <figure class=""><img src="/image/dc-logo.png" alt="logo"></figure>
             <NavBar/>
         </div>
     </header>
